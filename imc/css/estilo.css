@@ -1,0 +1,17 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    border:0;
+} */
+
+input{
+    margin: 8px;
+}
+
+#corpo{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    border: 1px solid #000;
+    margin: auto;
+}
